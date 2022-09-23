@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    aws_lambda_ric (2.0.0)
     multi_json (1.15.0)
     streamio-ffmpeg (3.0.2)
       multi_json (~> 1.8)
@@ -9,6 +10,7 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
+  aws_lambda_ric
   streamio-ffmpeg
 
 BUNDLED WITH
